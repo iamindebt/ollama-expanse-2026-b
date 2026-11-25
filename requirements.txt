@@ -1,4 +1,4 @@
-# core scientific / EDA stack
+# Core scientific / EDA stack
 pandas
 numpy
 matplotlib
@@ -8,25 +8,27 @@ seaborn
 jupyterlab
 ipywidgets
 
-# search / tools
+# Search / tools
 duckduckgo-search
 mcp
 
-# LLM + LangChain + Langsmith + vector store
+# LangChain ecosystem
 langchain
 langchain-core
-langchain-community
 langchain-classic
 langchain-text-splitters
 langchain-huggingface
 langchain-ollama
 langchain-openai
+langchain-chroma
+langchain-community
 langsmith
+
+# Vector store
 chromadb
+
+# Models and embeddings
 sentence-transformers
 transformers
 huggingface-hub
 ollama
-
-#V100 torch compatibility
-torch==2.5.1

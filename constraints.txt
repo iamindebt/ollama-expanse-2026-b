@@ -1,0 +1,2 @@
+# Preserve NVIDIA V100 (Volta / sm_70) compatibility
+torch==2.14.1+cu126
